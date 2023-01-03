@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadhna2507&show_icons=true&locale=en" alt="sadhna2507" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhna2507&" alt="sadhna2507" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhna2507" alt="sadhna2507" /></p>
 
 - 📫 How to reach me **sadhnakhairia1998@gmail.com**
 
