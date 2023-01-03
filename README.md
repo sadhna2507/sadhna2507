@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sadhna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/sadhna2507](https://github.com/sadhna2507)
+
+- 📫 How to reach me **sadhnakhairia1998@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,7 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadhna2507&show_icons=true&locale=en" alt="sadhna2507" /></p>
 
-
-- 📫 How to reach me **sadhnakhairia1998@gmail.com**
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhna2507&" alt="sadhna2507" /></p>
